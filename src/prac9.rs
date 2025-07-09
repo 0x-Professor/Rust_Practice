@@ -24,4 +24,5 @@ fn write_array2(arr2:&mut [&str; 2] ){
     arr2[0] = "Hello, Buddy!";
     arr2[1] = "Enjoy Blockchain!";
     println!("Modified array2: {:#?}", arr2);
+    
 }
