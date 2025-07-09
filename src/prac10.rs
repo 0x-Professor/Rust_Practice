@@ -16,4 +16,5 @@ fn write_vector(vec: &mut Vec<i32>){
     vec.push(6);
     println!("{:?}", vec);
     
+    
 }
