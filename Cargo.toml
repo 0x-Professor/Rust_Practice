@@ -31,5 +31,8 @@ path = "src/prac5.rs"
 name = "prac6"
 path = "src/prac6.rs"
 
+[[bin]]
+name = "prac7"
+path = "src/prac7.rs"
 
 [dependencies]
