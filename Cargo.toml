@@ -3,62 +3,6 @@ name = "RustPractice"
 version = "0.1.0"
 edition = "2024"
 
-[[bin]]
-name = "prac1"
-path = "src/prac1.rs"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[[bin]]
-name = "main"
-path = "src/main.rs"
-
-[[bin]]
-name = "prac2"
-path = "src/prac2.rs"
-
-[[bin]]
-name = "prac3"
-path = "src/prac3.rs"
-
-[[bin]]
-name = "prac4"
-path = "src/prac4.rs"
-
-[[bin]]
-name = "prac5"
-path = "src/prac5.rs"
-
-[[bin]]
-name = "prac6"
-path = "src/prac6.rs"
-
-[[bin]]
-name = "prac7"
-path = "src/prac7.rs"
-
-[[bin]]
-name = "prac8"
-path = "src/prac8.rs"
-
-[[bin]]
-name = "prac9"
-path = "src/prac9.rs"
-
-[[bin]]
-name = "prac10"
-path = "src/prac10.rs"
-
-[[bin]]
-name = "prac11"
-path = "src/prac11.rs"
-[[bin]]
-name = "prac12"
-path = "src/prac12.rs"
-
-[[bin]]
-name = "prac13"
-path = "src/prac13.rs"
-
-[[bin]]
-name = "prac14"
-path = "src/prac14.rs"
 [dependencies]
