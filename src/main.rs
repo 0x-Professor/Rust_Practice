@@ -11,7 +11,9 @@ mod array_type;
 mod vector_type;
 mod control_flow;
 mod loops;
-mod user_input; // Added this module
+mod user_input;
+mod random_number;
+// Added this module
 // prac11.rs has been merged into basic_syntax.rs
 
 fn main() {
