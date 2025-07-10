@@ -98,8 +98,8 @@ Each module will contain:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/0x-Professor/Rust_Practice.git
+    cd Rust_Practice
     ```
 2.  **Navigate through the `src` directory.** The code is organized into modules (e.g., `basic_syntax.rs`, `string_ownership.rs`, etc.).
 3.  **Read the explanations and code examples within each module.**
