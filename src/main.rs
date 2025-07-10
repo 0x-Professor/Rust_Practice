@@ -13,6 +13,7 @@ mod control_flow;
 mod loops;
 mod user_input;
 mod random_number;
+mod guess_game;
 // Added this module
 // prac11.rs has been merged into basic_syntax.rs
 
